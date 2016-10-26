@@ -35,7 +35,9 @@ angular.module('contactApp', [ngRoute, ngAnimate])
 // angular services
 
 // angular components
-// require('./component/main');
-// require('./component/nav');
+require('./component/main');
+require('./component/header');
+require('./component/footer');
+
 // require('./view/about');
 // require('./view/projects');

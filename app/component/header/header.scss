@@ -1,0 +1,19 @@
+@import "_theme";
+
+.app-header {
+  position: fixed;
+  width: 100%;
+  background-color: green;
+  opacity: 1;
+}
+
+.container {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+li {
+  list-style: none;
+}
